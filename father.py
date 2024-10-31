@@ -1,0 +1,2 @@
+greeting = 'Father'
+print(greeting)
